@@ -86,6 +86,7 @@ button {
   margin: auto;
   width: 1000px;
   cursor: pointer;
+  border: none;
   
 }
 button:hover {
